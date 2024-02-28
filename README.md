@@ -20,7 +20,7 @@ I'm Ethan, a passionate data enthusiast currently pursuing my Master's in Data S
 
 ## 🚀 Projects
 
-- [Derivation of Black-Scholes Formula with Applications in Pricing and Hedging](#[data-portfolio/python-projects\Black-Scholes](https://github.com/ethan2411/data-portfolio/tree/main/python/Black-Scholes)): Detailed the derivation process for both European call and put options. Applied the Black-Scholes formula to simulated and real-world data. Investigated delta hedging as a risk management strategy
+- [Derivation of Black-Scholes Formula with Applications in Pricing and Hedging](https://github.com/your-username/Data-Portfolio/blob/main/Python/Black-Scholes/Data_609_Term_Project.pdf): Detailed the derivation process for both European call and put options. Applied the Black-Scholes formula to simulated and real-world data. Investigated delta hedging as a risk management strategy
 - [Project Name 2](link): Brief description.
 - [Project Name 3](link): Brief description.
 

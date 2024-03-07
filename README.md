@@ -15,8 +15,8 @@ I'm Ethan, a passionate data enthusiast currently pursuing my Master's in Data S
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Data Analysis**: Pandas, NumPy, SciPy
 - **Statistical Modeling**: Regression, Classification, Monte Carlo Methods, Time Series Analysis
-- **Finance**: Options Pricing, Hedging
-- **Energy Market Modeling**: Options Pricing
+- **Finance**: Options Pricing, Hedging, Value at Risk
+- **Energy Market Modeling**: Options Pricing, Hedging, Value at Risk
 
 ## 🚀 Projects
 

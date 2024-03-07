@@ -22,7 +22,7 @@ I'm Ethan, a passionate data enthusiast currently pursuing my Master's in Data S
 
 - [Derivation of Black-Scholes Formula with Applications in Pricing and Hedging](https://github.com/ethan2411/Data-Portfolio/blob/main/Python/Black-Scholes/Data_609_Term_Project.pdf): Detailed the derivation process for both European call and put options. Applied the Black-Scholes formula to simulated and real-world data. Investigated delta hedging as a risk management strategy
 - [Measuring the Effects of Direct Marketing Campaigns on Bank Client Subscriptions](https://github.com/ethan2411/Data-606/blob/main/Data_606_Final_Project.ipynb):  Implemented data cleaning, encoding, and scaling. Developed and evaluated Logistic Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), Decision Tree, and Random Forest.
-- [Project Name 3](link): Brief description.
+- [Value at Risk for Portfolio](https://github.com/ethan2411/Data-Portfolio/blob/main/Python/VaR/Value_at_Risk.ipynb): Used Historical, Parametric and Monte Carlo Methods to calculate VaR of a portfolio.
 
 ## 📚 Education
 

@@ -6,7 +6,6 @@ I'm Ethan, a passionate data enthusiast currently pursuing my Master's in Data S
 
 - 🎓 Studying towards a Master's degree in Data Science
 - 💼 Working on various machine learning projects
-- 💡 Exploring projects in finance and energy market modeling
 
 ## 💻 Skills
 
@@ -20,9 +19,10 @@ I'm Ethan, a passionate data enthusiast currently pursuing my Master's in Data S
 
 ## 🚀 Projects
 
+
+- [Precision in Perception: Sentiment Analysis for Apple Vision Pro through Youtube Comment Text Classification](https://github.com/ethan2411/Data-607/blob/main/Group1_607_project_report_.pdf): Scraped youtube comments on the apple vision pro, cleaned the data, and developed 7 ML algorithms for classifying the sentiment of teh comments.
 - [Derivation of Black-Scholes Formula with Applications in Pricing and Hedging](https://github.com/ethan2411/Data-Portfolio/blob/main/Python/Black-Scholes/Data_609_Term_Project.pdf): Detailed the derivation process for both European call and put options. Applied the Black-Scholes formula to simulated and real-world data. Investigated delta hedging as a risk management strategy
 - [Measuring the Effects of Direct Marketing Campaigns on Bank Client Subscriptions](https://github.com/ethan2411/Data-606/blob/main/Data_606_Final_Project.ipynb):  Implemented data cleaning, encoding, and scaling. Developed and evaluated Logistic Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), Decision Tree, and Random Forest.
-- [Value at Risk for Portfolio](https://github.com/ethan2411/Data-Portfolio/blob/main/Python/VaR/Value_at_Risk.ipynb): Used Historical, Parametric and Monte Carlo Methods to calculate VaR of a portfolio.
 
 ## 📚 Education
 

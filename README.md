@@ -1,53 +1,98 @@
-## Hi there! 👋
+# Hi there! 👋
 
-I'm Ethan, a passionate data enthusiast currently pursuing my Master's in Data Science. With a Bachelor's degree in Mathematics, I'm deeply interested in exploring the intersection of data science, finance, and energy market modeling.
+I'm Ethan, an Analytics Engineer and Data Developer.
 
-## 🔬 Current Focus
+I specialize in building scalable data platforms, ELT pipelines, reporting solutions, and business process automation. My experience spans data engineering, business intelligence, cloud analytics, and machine learning, with a focus on turning complex business problems into reliable data products.
 
-- 🎓 Studying towards a Master's degree in Data Science
-- 💼 Working on various machine learning projects
+Currently, I work as a Data Analytics Developer II, designing enterprise analytics solutions across Azure, Databricks, dbt and Power BI.
 
-## 💻 Skills
+## 🔭 What I'm Working On
 
-- **Programming Languages**: Python, R, SQL, NoSQL, VBA
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Data Analysis**: Pandas, NumPy, SciPy
-- **Statistical Modeling**: Regression, Classification, Monte Carlo Methods, Time Series Analysis
-- **Finance**: Options Pricing, Hedging, Value at Risk
-- **Energy Market Modeling**: Options Pricing, Hedging, Value at Risk
+- Building scalable ELT pipelines with Databricks, dbt, and Azure Synapse
+- Developing Power BI semantic models and executive reporting solutions
+- Automating business processes using Python, Power Automate, and REST APIs
+- Modernizing legacy reporting systems and cloud data platforms
+- Exploring machine learning applications for forecasting and risk assessment
 
-## 🚀 Projects
+## 💻 Technical Skills
+
+### Data Engineering
+- Databricks (PySpark, SparkSQL)
+- Azure Synapse
+- dbt
+- Dagster
+- DuckDB
+- SSIS
+- SQL Server
+- PostgreSQL
+
+### Analytics & BI
+- Power BI
+- Tableau
+- DAX
+- Tabular Editor
+- Excel (Power Query / M)
+
+### Programming
+- Python
+- SQL
+- R
+- JavaScript
+- HTML/CSS
+- VBA
+
+### Cloud & Development
+- Azure
+- Azure DevOps
+- GitLab
+- FastAPI
+- REST APIs
+
+### Areas of Interest
+- Analytics Engineering
+- Data Platform Architecture
+- Business Intelligence
+- Data Modeling
+- Process Automation
+- Machine Learning
+- Time Series Forecasting
+
+## 🚀 Featured Projects
+
+### Enterprise SAP Data Integration
+Designed and deployed a Databricks-based integration that replaced legacy PI tag infrastructure and intermediary transfer software, delivering data directly into SAP and eliminating over $100K annually in licensing costs.
+
+### Executive Reporting Automation
+Built automated reporting pipelines that deliver daily executive insights to leadership teams, reducing manual reporting effort and improving data accessibility.
+
+### Data Platform Modernization
+Engineered scalable ELT pipelines across multiple enterprise systems using Azure Synapse, Databricks, and dbt, processing millions of records for production analytics workloads.
 
 
-- [Precision in Perception: Sentiment Analysis for Apple Vision Pro through Youtube Comment Text Classification](https://github.com/ethan2411/Data-607/blob/main/Group1_607_project_report_.pdf): Scraped youtube comments on the apple vision pro, cleaned the data, and developed 7 ML algorithms for classifying the sentiment of teh comments.
-- [Derivation of Black-Scholes Formula with Applications in Pricing and Hedging](https://github.com/ethan2411/Data-Portfolio/blob/main/Python/Black-Scholes/Data_609_Term_Project.pdf): Detailed the derivation process for both European call and put options. Applied the Black-Scholes formula to simulated and real-world data. Investigated delta hedging as a risk management strategy
-- [Measuring the Effects of Direct Marketing Campaigns on Bank Client Subscriptions](https://github.com/ethan2411/Data-606/blob/main/Data_606_Final_Project.ipynb):  Implemented data cleaning, encoding, and scaling. Developed and evaluated Logistic Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), Decision Tree, and Random Forest.
+## 📈 Career Highlights
 
-## 📚 Education
+- Generated over **$200K in annual software and licensing savings** through automation and system modernization initiatives
+- Built production data pipelines processing **millions of rows** across multiple enterprise systems
+- Modernized **15+ dashboards** serving **250+ monthly users**
+- Led client-facing technical discussions, requirements gathering, and solution demonstrations
+- Mentored junior developers and contributed to onboarding and development standards
 
-- **Master of Science in Data Science**: University of Calgary, 2024
-- **Bachelor of Science in Mathematics**: University of Calgary, 2023
+## 🎓 Education
 
-## 📫 Let's Connect!
+**Master of Data Science and Analytics**  
+University of Calgary
 
-- LinkedIn: [Here](https://www.linkedin.com/in/ethan-scott2/)
-- Email: ethanrscott@hotmail.com
+**Bachelor of Science (Mathematics)**  
+University of Calgary
 
-Feel free to explore my repositories for more projects and insights into my work! If you have any questions or just want to connect, don't hesitate to reach out. 😊
+## 📫 Connect With Me
 
+- LinkedIn: https://www.linkedin.com/in/ethan-scott2/
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories to see examples of analytics engineering, data engineering, business intelligence, machine learning, and automation projects.
 
 <!--
-**ethan2411/ethan2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ethan2411/ethan2411** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
